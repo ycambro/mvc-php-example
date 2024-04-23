@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Registro</title>
-    <link rel="stylesheet" href="/public/css/styles.css">
 </head>
 <body>
     <h1>Registro</h1>
